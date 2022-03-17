@@ -1,0 +1,8 @@
+C:\Term2\Programming2-Exam\Programming2-Exam\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Term2\Programming2-Exam\Programming2-Exam\Assignment2\obj\Debug\Assignment2.csproj.SuggestedBindingRedirects.cache
+C:\Term2\Programming2-Exam\Programming2-Exam\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Term2\Programming2-Exam\Programming2-Exam\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Term2\Programming2-Exam\Programming2-Exam\Assignment2\bin\Debug\Assignment2.exe
+C:\Term2\Programming2-Exam\Programming2-Exam\Assignment2\bin\Debug\Assignment2.pdb
+C:\Term2\Programming2-Exam\Programming2-Exam\Assignment2\obj\Debug\Assignment2.exe
+C:\Term2\Programming2-Exam\Programming2-Exam\Assignment2\obj\Debug\Assignment2.pdb

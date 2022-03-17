@@ -1,0 +1,7 @@
+C:\Term2\Programming2-Exam\Programming2-Exam\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Term2\Programming2-Exam\Programming2-Exam\Assignment1\bin\Debug\Assignment1.exe
+C:\Term2\Programming2-Exam\Programming2-Exam\Assignment1\bin\Debug\Assignment1.pdb
+C:\Term2\Programming2-Exam\Programming2-Exam\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Term2\Programming2-Exam\Programming2-Exam\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Term2\Programming2-Exam\Programming2-Exam\Assignment1\obj\Debug\Assignment1.exe
+C:\Term2\Programming2-Exam\Programming2-Exam\Assignment1\obj\Debug\Assignment1.pdb
